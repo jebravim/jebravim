@@ -64,7 +64,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ## 📌 Projetos em destaque
 
-🔹 https://github.com/jebravim/Sistema-de-controle-de-gastos-residenciais
+🔹 https://github.com/jebravim/Sistema-de-controle-de-gastos-residenciais          
 🔹 https://github.com/jebravim/Sistema-de-frota
 
 ---
