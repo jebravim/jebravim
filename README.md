@@ -56,9 +56,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 - Spring Boot
 - React
 - Docker
-- Testes Automatizados
 - APIs REST
-- Arquitetura de Software
 
 ---
 
