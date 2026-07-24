@@ -77,5 +77,5 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ## Contato
 
-- 📧 E-mail: jebravim@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-eduardo-bravim-barbosa/
+-  E-mail: jebravim@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/jos%C3%A9-eduardo-bravim-barbosa/
