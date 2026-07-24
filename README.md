@@ -1,10 +1,10 @@
-# Olá, eu sou José Eduardo Bravim Barbosa 👋
+# Olá, eu sou José Eduardo Bravim Barbosa
 
 🎓 Estudante de Ciência da Computação na UNIMAX Indaiatuba.
 
 Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação, com foco em Java, Spring Boot e React. Atualmente atuo como estagiário de TI, onde adquiro experiência prática em infraestrutura, redes, bancos de dados e suporte técnico. Busco aplicar esses conhecimentos no desenvolvimento de aplicações modernas, APIs REST e soluções escaláveis, sempre seguindo boas práticas de desenvolvimento e aprendizado contínuo.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Back-end
 - Java
@@ -32,7 +32,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 ### Estagiário de TI | Rizzo Park *(Out/2025 – Atual)*
 
@@ -50,7 +50,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Java
 - Spring Boot
@@ -60,14 +60,14 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 🔹 https://github.com/jebravim/Sistema-de-controle-de-gastos-residenciais          
 🔹 https://github.com/jebravim/Sistema-de-frota
 
 ---
 
-## 🌎 Idiomas
+## Idiomas
 
 - 🇧🇷 Português (Nativo)
 - 🇺🇸 Inglês (Intermediário)
@@ -75,7 +75,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formaç�
 
 ---
 
-## 📫 Contato
+## Contato
 
 - 📧 E-mail: jebravim@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-eduardo-bravim-barbosa/
