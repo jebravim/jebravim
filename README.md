@@ -1,6 +1,6 @@
 # Olá, eu sou José Eduardo Bravim Barbosa
 
-🎓 Estudante de Ciência da Computação na UNIMAX Indaiatuba.
+Estudante de Ciência da Computação na UNIMAX Indaiatuba.
 
 Sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação, com foco em Java, Spring Boot e React. Atualmente atuo como estagiário de TI, onde adquiro experiência prática em infraestrutura, redes, bancos de dados e suporte técnico. Busco aplicar esses conhecimentos no desenvolvimento de aplicações modernas, APIs REST e soluções escaláveis, sempre seguindo boas práticas de desenvolvimento e aprendizado contínuo.
 
